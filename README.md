@@ -1,3 +1,3 @@
 # Machine-Learning-With-Python
 
-Contains machine learning related jupyter notebooks
+This repository contains machine learning related notebooks.
