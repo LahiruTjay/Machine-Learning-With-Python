@@ -1,8 +1,8 @@
 # Machine-Learning-With-Python
 
-This repository contains machine learning related jupyter notebook. 
+This repository contains machine learning related projects. 
 
-Contains the full machine learning workflow, includes:
+Includes:
 
 * Data cleaning
 * Model selection
