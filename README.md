@@ -1,6 +1,6 @@
 # Machine-Learning-With-Python
 
-This repository contains machine learning related projects. These mini projects are done using Jupyter notebook.
+This repository contains machine learning related projects. These mini projects are done using Jupyter notebook. This covers several publically available datasets
 
 Includes:
 
