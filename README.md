@@ -12,4 +12,4 @@ Includes:
 
 To be implemented:
 * Techniques for clustering
-* Sckikit Learn pipeline implementation
+* Scikit Learn pipeline implementation
