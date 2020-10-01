@@ -1,4 +1,6 @@
-# Machine-Learning-With-Python
+# Machine-Learning-With-Python (Hands On Practice)
+
+**GET YOUR HANDS DIRTY BY Practicing lots of examples on important techniques used in Ml**.
 
 This repository contains machine learning related projects. These mini projects are done using Jupyter notebook. This covers several publically available datasets. 
 
